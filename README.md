@@ -1,10 +1,6 @@
 # Renewable-Energy-Forecasting-For-CleanEnergy-Innovations-Inc.
 
-# Renewable Energy Forecasting: Wind Turbine Power Prediction (with-pandas-and-Machine-Learning)
-
-# Renewable-Energy-Forecasting-For-CleanEnergy-Innovations-Inc.
-
-# Renewable Energy Forecasting: Wind Turbine Power Prediction (with-pandas-and-Machine-Learning)
+**Renewable Energy Forecasting: Wind Turbine Power Prediction (with-pandas-and-Machine-Learning)**
 
 ## Overview
 This project focuses on analyzing and forecasting power generation from wind turbines using data science and machine learning techniques. The goal is to predict the **system power generated** by a wind turbine based on various environmental factors such as wind speed, wind direction, pressure, and air temperature.
@@ -89,8 +85,8 @@ An inference script was created to deploy the best model for predicting wind tur
 
 ### Inference Script:
 
-```bash
-python scripts/inference.py --input data/new_wind_data.csv
+
+`python scripts/inference.py --input data/new_wind_data.csv`
 
 
 ## Recommendations
@@ -107,7 +103,7 @@ python scripts/inference.py --input data/new_wind_data.csv
 - **Further Model Improvements**:  
   Additional features, such as humidity or turbulence, could improve prediction accuracy for the models.
 
----
+
 
 ## How to Use This Repository
 
