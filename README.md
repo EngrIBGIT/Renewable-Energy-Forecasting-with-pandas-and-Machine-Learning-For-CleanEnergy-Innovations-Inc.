@@ -45,8 +45,7 @@ The dataset contains crucial features for the analysis and forecasting of wind t
 #### Correlation Matrix:
 This heatmap highlights the relationships between the different variables. Wind speed has the highest correlation with power generated.
 
-![Correlation Matrix](visuals/correlation_matrix.png)
-
+![Correlation Matrix](https://github.com/EngrIBGIT/Renewable-Energy-Forecasting-with-pandas-and-Machine-Learning-For-CleanEnergy-Innovations-Inc./blob/main/Correlation%20of%20Numeric%20Values.PNG)
 #### Predicted vs Actual Power Generation:
 Shows how well the model predicted power generation compared to actual data.
 
